@@ -14,7 +14,7 @@ const Footer = () => {
         <div>
           <a href="https://instagram.com/amanjain5603?igshid=MzNlNGNkZWQ4Mg=="><AiFillInstagram/></a>
           <a href="https://www.facebook.com/profile.php?id=100009497724540&mibextid=ZbWKwL"><AiFillFacebook/></a>
-          <a href='/home'><AiFillTwitterSquare/></a>
+          <a href='/'><AiFillTwitterSquare/></a>
           <a href="https://github.com/amanjn1122"><AiFillGithub/></a>
         </div>
       </div>
