@@ -43,15 +43,15 @@ const Home = () => {
                 </div>
                 <div style={{animationDelay: ".25s"}}>
                     <AiFillAmazonCircle/>
-                    <p>Google</p>
+                    <p>Amazon</p>
                 </div>
                 <div style={{animationDelay: ".5s"}}>
                     <AiFillYoutube/>
-                    <p>Google</p>
+                    <p>Youtube</p>
                 </div>
                 <div style={{animationDelay: ".75s"}}>
                     <AiFillInstagram/>
-                    <p>Google</p>
+                    <p>Instagram</p>
                 </div>
             </article>
         </div>
